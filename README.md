@@ -1,8 +1,6 @@
 # 📡 Conference LeadScope
 
-A Streamlit app that help identify high-value conferences across various research focus areas.
-
-Compares CSV exports filtered by topic, counts the appearance of conference names, and visualizes the top venues prospects attend — enabling data-informed conference planning.
+A Streamlit app that help identify high-value conferences across various research focus areas, and visualizes the top venues prospects attend — enabling data-informed conference planning.
 
 ---
 
