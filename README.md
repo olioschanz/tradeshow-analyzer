@@ -4,7 +4,7 @@ A Streamlit app that help identify high-value conferences across various researc
 
 ---
 
-## Features
+## What It Does
 
 - Upload **multiple CSVs** (one per focus area)
 - Extract and **deduplicate tradeshows**
@@ -39,10 +39,12 @@ Also generates interactive bar charts per topic.
 
 ---
 
-## Run Locally
+## How to use it
 
-Clone the repo and install dependencies:
+**Live app:**  
+[https://tradeshow-analyzer.streamlit.app/](https://tradeshow-analyzer.streamlit.app/)
 
+**Local use:**
 ```bash
 git clone https://github.com/olioschanz/tradeshow-analyzer.git
 cd tradeshow-analyzer
